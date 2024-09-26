@@ -1,0 +1,25 @@
+body{
+    background: rgb(153, 150, 150);
+}
+.container{
+    width: 50%;
+    height: 50%;
+    padding-top: 10%;
+    padding-left: 40%;
+}
+.screen{
+    text-align: right;
+    padding-right: 50px;
+}
+input[
+    type = text
+]{
+    height: 50px;
+    width: 30%;
+}
+input[
+    type = button
+]{
+    height: 50px;
+    width: 50px;
+}
